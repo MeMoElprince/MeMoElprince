@@ -1,15 +1,17 @@
 <h1 align="center">
-  <a href="">
-    <img src="">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9920F7&background=FFFCFC00&center=true&vCenter=true&width=435&lines=Hello+Nice+to+Meet+You;I'm+Mustafa+Elsharawy;Have+A+Nice+Day+%E2%9C%A8" alt="Typing SVG" /></a>
 </h1>
 
-<h2>I'm Mustafa Elsharawy <img src="https://media.giphy.com/media/26ufplp8yheSKUE00/giphy.gif" width="35"></h2>
+<h2>I'm Mustafa Elsharawy</h2>
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
 
 
 
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9920F7&background=FFFCFC00&center=true&vCenter=true&width=435&lines=Hello+Nice+to+Meet+You;I'm+Mustafa+Elsharawy;Have+A+Nice+Day+%E2%9C%A8)](https://git.io/typing-svg)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9920F7&background=FFFCFC00&center=true&vCenter=true&width=435&lines=Hello+Nice+to+Meet+You;I'm+Mustafa+Elsharawy;Have+A+Nice+Day+%E2%9C%A8" alt="Typing SVG" /></a>
+-->
 
 
 
