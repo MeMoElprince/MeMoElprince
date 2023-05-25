@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aniket+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
+    <img src="">
   </a>
 </h1>
 
