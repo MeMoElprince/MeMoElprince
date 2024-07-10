@@ -49,3 +49,17 @@
 
 
 
+
+
+<!-- icon for languages and tools -->
+<h2 align="left"> 🛠️ Languages and Tools:</h2>
+<p align="left"> 
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,postgresql"/>
+    </a>
+    <a href="https://socket.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/800px-Socket-io.svg.png" width="50px" height="50" alt="Ethereum" />
+    </a>
+     <img src="https://skillicons.dev/icons?i=linux,git,postman"/>
+    </a>
+    <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" width="50px" height="50" alt="Ethereum" /></a>
+</p>
