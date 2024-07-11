@@ -20,8 +20,7 @@
   
   
 - I'm a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests` 🏆
-
-- I'm a problem solver at `HackerRank`, `HackerEarth`, `CodeSignal`, `Codewars` 
+ 
   
 
 <!-- Skills -->
