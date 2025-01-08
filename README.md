@@ -9,14 +9,14 @@
 
 <h2> 💻 About Me </h2>
 
-- 🎓 I'm currently working on **`Backend Development`**
+- 👨‍💻 I'm currently working on **`Backend Development`**
 
 
 
-- 🌱 I'm currently learning **`Nest.js`**.
+- 🌱 I'm currently learning **`Microservices Architecture`**.
   
 
-- I'm **Mustafa Elsharawy** a fresh graduate from the [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/) 👨‍💻
+- 🎓 I'm **Mustafa Elsharawy** a fresh graduate from the [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/) 👨‍💻
   
   
 - I'm a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests` 🏆
@@ -28,7 +28,7 @@
 <h2> 🚀 Skills </h2>
 
 - **Languages** : `C++`, `Python`, `JavaScript`, `TypeScript`, `SQL`, `HTML`, `CSS`
-- **Frameworks** : `Node.js`, `Express.js`
+- **Frameworks** : `Node.js`, `Express.js`, `Nestjs`
 - **Tools**: `Github`, `Postman`, `API`, `Socket.io`, `Migration`
 - **Technical Skills** : `Problem-Solving`, `Competitive-Programming`, `DataStructures`, `Algorithms`, `OOP`, `Databases`, `Git`
 
